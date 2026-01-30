@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "whatsapp-worker",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "whatsapp-worker",
+			"database_id": "e7b642ab-d443-4d10-a59b-4b23bf248192"
+		}
+	]
+}
